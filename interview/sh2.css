@@ -1,0 +1,126 @@
+.title {
+	width:610px;	
+	height:130px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-15px;
+}
+
+.description1 {
+	font-family:Gill Sans;
+	color:#37373;
+	text-align:center;
+	margin-top:60px;
+	font-size:25px;
+}
+
+.description2 {
+	font-family:Gill Sans;
+	color:#37373;
+	text-align:center;
+	margin-top:10px;
+}
+
+.description3 {
+	font-family:Gill Sans;
+	color:#37373;
+	text-align:center;
+	margin-top:10px;
+}
+
+.description4 {
+	font-family:Gill Sans;
+	color:#37373;
+	text-align:center;
+	margin-top:10px;
+}
+
+.description5 {
+	font-family:Gill Sans;
+	color:#37373;
+	text-align:center;
+	margin-top:10px;
+}
+
+.madeby {
+	font-family:Gill Sans;
+	color:#37373;
+	font-size:20px;
+	text-align:center;
+	margin-top:60px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #DCD0C0;
+}
+
+a:hover{
+	font-family: Gill Sans, sans-serif;
+    color: #373737;
+}
+
+.about {
+	text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    margin-left:443px;
+}
+
+.interviews {
+	text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+}
+
+.originalsites {
+	text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.contact {
+	text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+ }
+
+.sitepicture {
+	width: 800px;
+	height:600px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}

@@ -1,0 +1,158 @@
+.title {
+    width:610px;    
+    height:130px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-15px;
+}
+
+
+img {
+    width:80px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    margin-top:10px;
+}
+
+.cchong1232 {
+    font-family:Gill Sans;
+    margin-top:35px;
+    text-align:center;
+}
+
+.carolchong {
+    font-family:Gill Sans;
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:30px;
+
+
+}
+
+.descriptionparagraph {
+    font-family:Gill Sans;
+    color:#37373;
+    text-align:center;
+    margin-top:30px;
+    font-size:30px;
+
+}
+
+.description1 {
+    font-family:Gill Sans;
+    color:#37373;
+    text-align:center;
+    margin-top:60px;
+    font-size:30px;
+
+}
+
+.description2 {
+    font-family:Gill Sans;
+    color:#37373;
+    text-align:center;
+    margin-top:10px;
+}
+
+.description3 {
+    font-family:Gill Sans;
+    color:#37373;
+    text-align:center;
+    margin-top:10px;
+}
+
+ul {
+    margin-top:15px;
+    list-style: none;
+    font-family:Gill Sans;
+}
+
+li{
+    color:#C0B283;
+    font-size:20px;
+    text-align:center;
+}
+
+p {
+    color:#C0B283;
+    font-size:20px;
+    margin-bottom:40px;
+    text-align:center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #DCD0C0;
+}
+
+a:hover{
+    font-family: Gill Sans, sans-serif;
+    color: #373737;
+}
+
+.about {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    margin-left:443px;
+}
+
+.interviews {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+}
+
+.originalsites {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.contact {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    background-color: #C0B283;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+ }
+
+.sitepicture {
+    width: 800px;
+    height:600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}

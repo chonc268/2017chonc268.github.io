@@ -1,5 +1,22 @@
 body {
-	background-color: white
+	background-color: grey
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	color: #696969
+}
+
+h5 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 25px;
+
+		color: #696969
 }
 
 img {
@@ -20,6 +37,14 @@ img {
     width: 45%;
 }
 
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+	color:#DCDCDC;
+	margin-bottom: 100px;
+	bottom:-10px;
+	left:10px;
+}
 
 #right{
     float:right;

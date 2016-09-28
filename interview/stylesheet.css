@@ -63,7 +63,7 @@ ul{
 	list-style-type: none;
 	position: fixted;
 	margin-bottom: 100px;
-	bottom:30px;
+	bottom:-30px;
 	left:10px;
 }
 

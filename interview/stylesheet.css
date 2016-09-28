@@ -92,3 +92,7 @@ li {
 	font-variant: small-caps;
 	color: #ffffff;
 }
+
+a {
+	text-decoration: none;
+}

@@ -1,0 +1,75 @@
+.title {
+    font-size: 100px;
+    font-family:Gill Sans, sans-serif;
+    color: #F2CDCF;
+    margin: auto;
+    position:center;
+    display: inline-block;
+    margin-left:20px;
+}
+
+a {
+    text-decoration: none;
+    color: #F2CDCF;
+}
+
+a:hover{
+    font-family: Gill Sans, sans-serif;
+    color: #E98F9D;
+}
+
+.about {
+    text-decoration: none;
+    text-align: left;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: left;
+    font-size:20px;
+}
+
+.interviews {
+    text-decoration: none;
+    text-align: left;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: left;
+    font-size:20px;
+}
+
+.originalsites {
+    text-decoration: none;
+    text-align: left;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: left;
+    font-size:20px;
+}
+
+.contact {
+    text-decoration: none;
+    text-align: left;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: left;
+    font-size:20px;
+ }
+
+.description {
+    font-family: Gill Sans, sans-serif;
+    font-size: 55px;
+    color: #009DA5;
+    text-align:center;
+    margin-top:-100px;
+    margin-bottom: -40px;
+    padding-top:-5px;
+    display:block;
+
+}

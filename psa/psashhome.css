@@ -1,0 +1,89 @@
+.title {
+    font-size: 400px;
+    font-family:Gill Sans, sans-serif;
+    color: #F2CDCF;
+    margin: auto;
+    margin-top:70px;
+    position:center;
+    display: inline-block;
+    margin-left: 380px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #F2CDCF;
+    font-size: 25px;
+}
+
+a:hover{
+    font-family: Gill Sans, sans-serif;
+    color: #E98F9D;
+}
+
+.about {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:center;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    background-color: #009DA5;
+    padding: 14px 25px;
+    text-align: center;
+    margin-left: 445px;
+    margin-right: auto;
+}
+
+.interviews {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:center;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    background-color: #009DA5;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+}
+
+.originalsites {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    background-color: #009DA5;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.contact {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    font-family: Gill Sans, sans-serif;
+    text-decoration: none;
+    background-color: #009DA5;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+ }
+
+.sitepicture {
+    width: 800px;
+    height:600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+background-color {
+    color: #00838A;
+}

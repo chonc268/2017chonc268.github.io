@@ -1,0 +1,380 @@
+body {
+	background-color: #E1F1EF;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    font-family: Gill Sans, sans-serif;
+    color: #C7C1BA;
+}
+a.green {
+	color:#027223;
+}
+
+a.green:hover {
+	color:#78AA00;	
+}
+
+.tradecenter{
+	font-style:none;
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-12px; left:300px;
+}
+
+.fulton{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-68px; left:500px;
+}
+
+.canal{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-128px; left:800px;
+}
+
+.first{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-178px; left:1100px;
+}
+
+.washingtonpark{
+	font-family:Gill Sans;
+	color:#07571E;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-246px; left:1300px;
+}
+
+.twelth{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-294px; left:1400px;
+}
+
+.unionsquare{
+	font-family:Gill Sans;
+	color:#335525;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-359px; left:1500px;
+}
+
+.chelseamarket{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-418px; left:1600px;
+}
+
+.ninteen{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-468px; left:1700px;
+}
+
+.flatiron{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-532px; left:1800px;
+}
+
+.madisonsquare{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-590px; left:1900px;
+}
+
+.twentynine{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-650px; left:2000px;
+}
+
+.empire{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-706px; left:2100px;
+}
+
+.thirtyfive{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-765px; left:2200px;
+}
+
+.publiclibrary{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-822px; left:2300px;
+}
+
+.timesquare{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-884px; left:2400px;
+}
+
+.fifty{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-940px; left:2500px;
+}
+
+.moma{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-996px; left:2600px;
+}
+
+.centralpark{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1056; left:2700px;
+}
+
+.centralzoo{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1114px; left:2750px;
+}
+
+.centralpark2{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1172px; left:2800px;
+}
+
+.centralpark3{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1230px; left:2850px;
+}
+
+.centralpark4{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1288px; left:2900px;
+}
+
+.centralpark5{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1346px; left:2950px;
+}
+
+.centralpark6{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1404px; left:3000px;
+}
+
+.naturalhistory{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1464px; left:3050px;
+}
+
+.naturalhistory1{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1518px; left:3100px;
+}
+
+.centralpark9{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1578px; left:3150px;
+}
+
+.met1{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1637px; left:3200px;
+}
+
+
+.met2{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1693px; left:3250px;
+}
+
+.centralpark12{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1752px; left:3300px;
+}
+
+.centralpark13{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1810px; left:3350px;
+}
+
+.centralpark14{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1868px; left:3400px;
+}
+
+.centralpark15{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1926px; left:3450px;
+}
+
+.centralpark16{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-1984px; left:3500px;
+}
+
+.centralpark17{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2042; left:3550px;
+}
+
+.centralpark18{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2100px; left:3600px;
+}
+
+.centralpark19{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2158px; left:3650px;
+}
+
+.centralpark20{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2315; left:3700px;
+}
+
+.onehundredfourteen{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2208px; left:3800px;
+}
+
+.marcusgarveypark{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2272px; left:3900px;
+}
+
+.onehundredfortyfive{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2324px; left:4400px;
+}
+
+.onehundredseventyseven{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2382px; left:4900px;
+}
+
+.fortwashington{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2446px; left:5300px;
+}
+
+.cloisters{
+	font-family:Gill Sans;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2508px; left:5700px;
+}
+
+.twohundredseven{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2564px; left:5850px;
+}
+
+.twohundredtwenty{
+	font-family:Gill Sans;
+	color:#9EA1A2;
+	font-size:50px;
+	transform: rotate(270deg);
+	position:relative; top:-2622px; left:6200px;
+}
+
+.div1 {
+	margin-top:-2000px;
+    width: 8390px;
+    height: 10px;
+}
+
+.person{
+	width:50px;
+	margin-top:99px;
+	position:fixed; top:590px; left:100px;
+}
+
+

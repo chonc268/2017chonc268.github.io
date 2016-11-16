@@ -1,11 +1,11 @@
 body {
-  background-color:#white;
+  background-color:white;
   margin:0;
 }
 .element {
   width:100px;
   height:100px;
-  background-color:#white;
+  background-color:white;
   margin:10px;
   float:left;
 }

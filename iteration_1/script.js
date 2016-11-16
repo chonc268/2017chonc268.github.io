@@ -7,9 +7,9 @@ $(document).ready(function() { //always do this first. A special event
   
   //mouse interaction
   $('.element').mouseover(function(){
-    $(this).css('background-color','gray');
+    $(this).css('background-color','black');
   });
   $('.element').mouseout(function(){
-    $(this).css('background-color','gray');
+    $(this).css('background-color','black');
   });
 });

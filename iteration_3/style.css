@@ -12,9 +12,18 @@ body {
   position:absolute;
 }
 
+.elements {
+  width:30px;
+  height:30px;
+  background-color:white;
+  margin:46px;
+  float:left;
+  position:absolute;
+}
+
 .random {
   background-color:#000;
   border-radius: 0%;
-  width:550px;
-  height:550px;
+  width:350px;
+  height:350px;
 }

@@ -3,63 +3,49 @@ $(document).ready(function() { //always do this first. A special event
 //fade out and in
 $(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
-    $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
-
-$(document).ready(function() {
     $('.random').fadeOut(3100);
-    });
-
-$(document).ready(function() {
     $('.random').fadeIn(3100);
-  });
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    $('.random').fadeOut(3100);
+    $('.random').fadeIn(3100);
+    });
 
 
   //call the function
   drawGridObjects();
+  drawGridObject();
   mouseover();
   drawRandomObject();
   drawRandomObject();
@@ -80,7 +66,7 @@ $(document).ready(function() {
     var now = new Date();
     var second = now.getSeconds();
     //console.log(second);
-    $('.random').css('transform','rotate(' + second*6 + 'deg)');
+    $('.random').css('transform','rotate(' + second*10 + 'deg)');
   }
 
   function drawRandomObject(){
@@ -99,6 +85,16 @@ $(document).ready(function() {
     }
     console.log("rx: " + rx + " ry: " + ry);
     $("body").append( "<div class='element random' style='left:" + rx + "vw; top:" + ry + "vh; background-color:" + color + ";'></div>" );
+  }
+
+    function drawGridObject(){
+    //append new element 20 times, and repeat that 100 times
+    for (j = 0; j < 8; j++) {
+      for (i = 0; i < 24; i++) { 
+        $("body").append( "<div class='elements' style='left:" + i*7 + "vw; top:" + j*100 + "px;'></div>" );
+        // console.log("element " + j + ", " + i + " added");
+      }
+    }
   }
 
   function drawGridObjects(){
@@ -121,6 +117,8 @@ $(document).ready(function() {
   });
 };
 });
+
+
 
 
 

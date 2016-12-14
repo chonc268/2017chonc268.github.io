@@ -1,0 +1,68 @@
+body{
+	margin:0 auto;
+	display: fixed;
+}
+
+div {
+  opacity: 0;
+}
+
+
+div:hover {
+  opacity: 1;
+  transition: 20s;
+  color:#44a392;
+}
+
+p{
+	padding:30px;
+	font-size:35pt;
+	text-align:center;
+	font-family: 'Arial', sans-serif;
+	background-color:white;
+}
+
+.june6{
+	width:250px;
+	height:250px;
+    left: 41%;
+    top: 15%;
+    color:black;
+    position:fixed;}
+
+.june9{
+	width:250px;
+	height:250px;
+    left: 41%;
+    top: 35%;
+    color:black;
+    position:fixed;}
+
+
+.aug4{
+	width:250px;
+	height:250px;
+    left: 41%;
+    top: 55%;
+    color:black;
+    position:fixed;}
+
+
+ .home {
+	width:350px;		
+	height:175px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	}
+
+.memories {
+	width:1000px;		
+	height:500px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+    margin-bottom:auto;
+}

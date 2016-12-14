@@ -1,0 +1,60 @@
+body{
+	margin:0 auto;
+	display: fixed;
+}
+
+p {
+	padding:320px;
+	font-size:20pt;
+	text-align:center;
+	font-family: 'Arial', sans-serif;
+	background-color:white;
+	bottom:10%;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+a:hover{
+	color:#44a392;
+}
+
+div {
+  opacity: 0;
+}
+
+div:hover {
+  opacity: 1;
+  transition: 8s;
+  color:#44a392;
+}
+
+.june28{
+	width:365;
+	height:250;
+    left:37%;
+    top: 32%;
+    color:brown;
+    position:absolute;}
+
+
+ .home {
+	width:350px;		
+	height:175px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	}
+
+.memories {
+	width:1000px;		
+	height:500px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+    margin-bottom:auto;
+}

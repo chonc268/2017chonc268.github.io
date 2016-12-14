@@ -1,0 +1,81 @@
+body{
+	margin:0 auto;
+	display: fixed;
+}
+
+p{
+	padding:30px;
+	font-size:25pt;
+	text-align:center;
+	font-family: 'Arial', sans-serif;
+	background-color:white;
+}
+
+div {
+  opacity: 0;
+}
+
+div:hover {
+  opacity: 1;
+  transition: 8s;
+  color:#44a392;
+}
+
+.animals{
+	width:250px;
+	height:250px;
+    left: 4%;
+    top: 40%;
+    color:#ff8400;
+    position:fixed;}
+
+.roadtrips{
+	width:250px;
+	height:250px;
+    left: 22%;
+    top: 40%;
+    color:#1eff00;
+    position:fixed;}
+
+.sunsets{
+	width:250px;
+	height:250px;
+    left: 41%;
+    top: 40%;
+    color:#FFC700;
+    position:fixed;}
+
+.food{
+	width:250px;
+	height:250px;
+    left: 58%;
+    top: 40%;
+    color:#ff00cc;
+    position:fixed;}
+
+.beaches{
+	width:250px;
+	height:250px;
+    left: 76%;
+    top: 40%;
+    color:#004293;
+    position:fixed;}
+
+ .home {
+	width:350px;		
+	height:175px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	}
+
+.memories {
+	width:1000px;		
+	height:500px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+    margin-bottom:auto;
+}

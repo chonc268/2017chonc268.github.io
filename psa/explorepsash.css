@@ -24,7 +24,9 @@ a.green:hover {
 	font-family:Gill Sans;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-12px; left:300px;
+	position:absolute;
+	left: 415px;
+	bottom:388px; 
 }
 
 .fulton{
@@ -32,7 +34,9 @@ a.green:hover {
 	color:#9EA1A2;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-68px; left:500px;
+	position:absolute;
+	left: 901px;
+	bottom:213px;
 }
 
 .canal{
@@ -40,7 +44,9 @@ a.green:hover {
 	color:#9EA1A2;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-128px; left:800px;
+	position:absolute; 
+	bottom:204px;
+	left:1300;
 }
 
 .first{
@@ -48,7 +54,9 @@ a.green:hover {
 	color:#9EA1A2;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-178px; left:1100px;
+	position:absolute; 
+	top:-178px; 
+	left:1100px;
 }
 
 .washingtonpark{
@@ -56,7 +64,9 @@ a.green:hover {
 	color:#07571E;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-246px; left:1300px;
+	position:absolute; 
+	top:-246px; 
+	left:1300px;
 }
 
 .twelth{
@@ -64,7 +74,9 @@ a.green:hover {
 	color:#9EA1A2;
 	font-size:50px;
 	transform: rotate(270deg);
-	position:relative; top:-294px; left:1400px;
+	position:absolute; 
+	top:-294px; 
+	left:1400px;
 }
 
 .unionsquare{
@@ -374,7 +386,9 @@ a.green:hover {
 .person{
 	width:50px;
 	margin-top:99px;
-	position:fixed; top:590px; left:100px;
+	position:fixed; 
+	bottom:60px;
+	left:100px;
 }
 
 

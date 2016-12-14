@@ -4,13 +4,12 @@ body{
 }
 
 p{
-	padding:150px;
+	padding:320px;
 	font-size:20pt;
 	text-align:center;
 	font-family: 'Arial', sans-serif;
 	background-color:white;
 	bottom:10%;
-}
 
 a{
 	text-decoration:none;
